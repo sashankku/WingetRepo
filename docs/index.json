@@ -1,0 +1,9 @@
+{
+  "Sources": [
+    {
+      "Name": "MyRepo",
+      "Type": "Microsoft.Rest",
+      "Arg": "https://sashankku.github.io/WingetRepo/docs"
+    }
+  ]
+}
