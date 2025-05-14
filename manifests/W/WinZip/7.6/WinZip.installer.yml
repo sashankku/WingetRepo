@@ -3,8 +3,8 @@ PackageVersion: 4.4.6
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
-    InstallerUrl: https://10.155.77.238:8000/Wireshark-4.4.6-x64.exe
-    InstallerSha256: D1925B045300C34EA8082B7EC0D79AEAE31EDF01EB9FDD9B69E069ECE785CA93
+    InstallerUrl: https://raw.githubusercontent.com/sashankku/WingetRepo/main/installers/winzip76.exe
+    InstallerSha256: B9C54457A260A168FA0EB60F2AE1A5C7A5B7072A8120E37E9561FAD6F914E298
     InstallerLocale: en-US
     Scope: machine
     MinimumOSVersion: 10.0.0.0
