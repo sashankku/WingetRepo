@@ -1,5 +1,5 @@
-PackageIdentifier: Wireshark.Wireshark
-PackageVersion: 4.4.6
+PackageIdentifier: WinZip.WinZip
+PackageVersion: 7.6.0
 Installers:
   - Architecture: x64
     InstallerType: nullsoft
@@ -11,8 +11,8 @@ Installers:
     InstallerSwitches:
       Silent: /S
       SilentWithProgress: /S
-      Custom: /D=C:\Wireshark
+      Custom: /D=C:\Winzip
 Commands:
-  - wireshark
+  - winzip
 ManifestType: installer
 ManifestVersion: 1.6.0
