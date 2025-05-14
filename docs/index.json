@@ -5,5 +5,17 @@
       "Type": "Microsoft.Rest",
       "Arg": "https://sashankku.github.io/WingetRepo/docs"
     }
+  ],
+  "Packages": [
+    {
+      "PackageIdentifier": "WinZip.WinZip",
+      "Versions": [
+        {
+          "Version": "7.6.0",
+          "ManifestType": "version",
+          "ManifestLocation": "https://sashankku.github.io/WingetRepo/docs/manifests/W/WinZip/7.6/WinZip.yml"
+        }
+      ]
+    }
   ]
 }
