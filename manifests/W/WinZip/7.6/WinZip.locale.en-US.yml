@@ -1,0 +1,10 @@
+PackageIdentifier: WinZip.WinZip
+PackageVersion: 7.6
+PackageName: WinZip
+Publisher: WinZip Computing
+License: Proprietary
+ShortDescription: WinZip is a powerful file compression and archiving tool.
+PackageUrl: https://www.winzip.com/
+PackageLocale: en-US
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

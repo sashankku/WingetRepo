@@ -1,0 +1,10 @@
+PackageIdentifier: Wireshark.Wireshark
+PackageVersion: 4.4.6
+PackageName: Wireshark
+Publisher: Wireshark Foundation
+License: GPL-2.0
+ShortDescription: Wireshark is the world's foremost network protocol analyzer.
+PackageUrl: https://www.wireshark.org/
+PackageLocale: en-US
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

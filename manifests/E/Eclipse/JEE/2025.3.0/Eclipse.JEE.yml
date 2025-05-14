@@ -1,0 +1,17 @@
+Id: Eclipse.JEE
+Name: Eclipse IDE for Java Developers
+Publisher: Eclipse Foundation
+Version: 2025.3.0
+License: EPL-2.0
+Installers:
+  - Architecture: x64
+    InstallerType: zip
+    InstallerUrl: file://\\SET-WIN11-SSH1\WingetRepo\installers\eclipse-jee-2025-03-R-win32-x86_64.zip
+    InstallerSha256: E1598BAFD2A0A3BF39359DAC8C2AB02A5022623CFE9D4DF8F52B217ABA2F0A08
+    NestedInstallerType: exe
+    NestedInstallerFiles:
+      - RelativeFilePath: eclipse-inst.exe
+Commands:
+  - eclipse
+Description: Eclipse IDE for Java Developers with support for Java, Git, Maven, and more.
+PackageIdentifier: Eclipse.JEE
