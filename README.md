@@ -1,0 +1,2 @@
+# WingetRepo
+Winget Repository Setup
