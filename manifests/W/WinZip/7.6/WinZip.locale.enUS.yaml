@@ -1,0 +1,12 @@
+PackageIdentifier: WinZip.WinZip
+PackageVersion: 7.6.0
+PackageLocale: en-US
+Publisher: WinZip Computing
+PublisherUrl: https://www.winzip.com
+PackageName: WinZip
+License: Proprietary
+ShortDescription: File compression and archiving software
+Commands:
+  - winzip
+ManifestType: defaultLocale
+ManifestVersion: 1.6.0

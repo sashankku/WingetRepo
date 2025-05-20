@@ -1,0 +1,31 @@
+{
+  "Sources": [
+    {
+      "Name": "MyRepo",
+      "Type": "Microsoft.Rest",
+      "Arg": "https://sashankku.github.io/WingetRepo/docs"
+    }
+  ],
+  "Packages": [
+    {
+      "PackageIdentifier": "WinZip.WinZip",
+      "Versions": [
+        {
+          "Version": "7.6.0",
+          "ManifestType": "version",
+          "ManifestLocation": "https://sashankku.github.io/WingetRepo/docs/manifests/W/WinZip/7.6/WinZip.yaml"
+        },
+		{
+          "Version": "7.6.0",
+          "ManifestType": "defaultLocale",
+          "ManifestLocation": "https://sashankku.github.io/WingetRepo/docs/manifests/W/WinZip/7.6/WinZip.locale.enUS.yaml"
+        },
+		{
+          "Version": "7.6.0",
+          "ManifestType": "installer",
+          "ManifestLocation": "https://sashankku.github.io/WingetRepo/docs/manifests/W/WinZip/7.6/WinZip.installer.yaml"
+        }
+      ]
+    }
+  ]
+}
